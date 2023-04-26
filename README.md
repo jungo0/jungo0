@@ -5,7 +5,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungo501)](https://solved.ac/jungo501/)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&color=dark)](https://velog.io/@jungo_0)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=정호&color=dark)](https://velog.io/@jungo_0)
 <!--
 **jungo0/jungo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
