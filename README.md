@@ -4,7 +4,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkssud8150&theme=tokyonight)](https://git.io/streak-stats)
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungo501)](https://solved.ac/jungo501/)
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jungo_0&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=jungo_0&tag=github)
        
 <!--  
 **jungo0/jungo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
