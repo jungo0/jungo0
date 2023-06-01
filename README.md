@@ -18,12 +18,12 @@
  ---
  
  <br>
- 
 <a href="https://velog-readme-stats.vercel.app/api/redirect?name=jungo_0"><img align="left" src="https://velog-readme-stats.vercel.app/api?name=jungo_0&color=dark"/></a>
- 
 <div align="left">
- 
-### ...Studying
+  
+<p style="font-size: 50px">...Studying</p>
+  
+
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=white"/>
