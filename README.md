@@ -6,7 +6,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jungo501)](https://solved.ac/jungo501/)
 
 ---
-🍏jungo.velog🍏 https://velog.io/@jungo_0
+🍏jungo.velog🍏 https://velog.io/@jungo_0<br>
 🍑jungo.github🍑 https://jungo0.github.io/
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkssud8150&theme=tokyonight)](https://git.io/streak-stats)
     
