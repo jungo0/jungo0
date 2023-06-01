@@ -21,7 +21,7 @@
 <a href="https://velog-readme-stats.vercel.app/api/redirect?name=jungo_0"><img align="left" src="https://velog-readme-stats.vercel.app/api?name=jungo_0&color=dark"/></a>
 <div align="left">
   
-<p style="font-size: 50px">...Studying</p>
+<p style="font-size: 50px;">...Studying</p>
   
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
