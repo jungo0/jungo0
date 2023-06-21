@@ -7,9 +7,9 @@
  <a href="https://github.com/jungo0"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungo0&count_bg=%23769DF9&title_bg=%233C4364&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)"/></a> <a href="https://solved.ac/jungo501"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jungo501"/></a>
  ---
 
-🍏 [**jungo.velog**](https://velog.io/@jungo_0) 🍏 공부기록
+🍒 [**jungo.velog**](https://velog.io/@jungo_0) 🍒 공부기록
  
-🍊 [**jungo.github**](https://jungo0.github.io/) 🍊 개발블로그
+🍑 [**jungo.github**](https://jungo0.github.io/) 🍑 개발블로그
  
  <br>
  
